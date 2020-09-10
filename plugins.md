@@ -10,7 +10,7 @@
 * [Mac OSX - XCode](https://itunes.apple.com/hn/app/xcode/id497799835?l=en&mt=12)
 
 
-# Plugins
+# Plugins para VSCode
 
 * [Awesome Flutter Snippets](https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets)
 
